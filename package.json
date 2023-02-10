@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a02-functions-handonna/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a02-functions-handonna#readme"
+  "homepage": "https://github.com/comp426-2023-spring/a02-functions-handonna#readme",
+  "bin": {
+    "galosh.js": "./cli.js"
+  },
+  "type": "module"
 }
